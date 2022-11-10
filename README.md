@@ -25,6 +25,22 @@ After I converted the "tripduration" column to a datetime datatype, I exported t
 ![Screenshot_20221110_094020](https://user-images.githubusercontent.com/110998103/201121604-503c6772-b0be-41db-96fd-417ca12ff4e8.png)
 
 
+2.	In the Deliverable 2 using Tableau, I  created visualizations that show: <br/>
+•	How long bikes are checked out for all riders.
+
+![18 2](https://user-images.githubusercontent.com/110998103/201143869-0772f914-b1a6-4845-91e7-ad49c7026ca3.png)
+
+
+•	How long bikes are checked out for all genders.
+
+
+![image](https://user-images.githubusercontent.com/110998103/201144129-d60cda83-0722-4803-bbfc-b630a0af589c.png)
+
+
+
+•	How many trips are taken by the hour for each day of the week, for all riders and genders. <br/>
+•	A breakdown of what days of the week a user might be more likely to check out a bike, by type of user and gender. <br/>
+
 
 
 
