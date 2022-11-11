@@ -10,7 +10,7 @@ For this analysis, I used Pandas to change the "tripduration" column from an int
 Finally, I added these new visualizations to the two I created in this module for my final presentation and analysis to pitch to investors. <br/>
 #### Resources <br/>
 • Presentation: [NYC Citibike Analysis Link](https://public.tableau.com/app/profile/valeriia.efremova/viz/NYCCitibikeanalysis_16681944837520/NYCCitibikeanalysis?publish=yes) . <br/>
-• Data Source: [Google]( Google), [201908-citibike-tripdata.csv.zip](https://s3.amazonaws.com/tripdata/index.html) . <br/> 
+• Data Source: [Google](https://www.google.com/), [201908-citibike-tripdata.csv.zip](https://s3.amazonaws.com/tripdata/index.html) . <br/> 
 •	Software: Tableau, Jupyter, Git Bash, GitHub. <br/>
 
 # `Results`
