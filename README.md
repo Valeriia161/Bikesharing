@@ -68,7 +68,7 @@ After I converted the "tripduration" column to a datetime datatype, I exported t
 ![image](https://user-images.githubusercontent.com/110998103/201393763-ef8c213f-32ff-419b-a7d9-7f7cdb5b9ee2.png)
 
 
-# `Sunmmary ` <br/>
+# `Summary ` <br/>
 
 
 
