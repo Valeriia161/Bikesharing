@@ -53,5 +53,8 @@ After I converted the "tripduration" column to a datetime datatype, I exported t
 •	A breakdown of what days of the week a user might be more likely to check out a bike, by type of user and gender. <br/>
 
 
+![image](https://user-images.githubusercontent.com/110998103/201375513-1a1e8934-7c4f-410e-9f3e-68e5deb6dd3f.png)
+
+
 
 
