@@ -9,7 +9,8 @@ For this analysis, I used Pandas to change the "tripduration" column from an int
 •	Show the number of bike trips for each type of user and gender for each day of the week. <br/>
 Finally, I added these new visualizations to the two I created in this module for my final presentation and analysis to pitch to investors. <br/>
 #### Resources <br/>
-•	Data Source: [Google]( Google) . <br/> 
+• Presentation: [NYC Citibike Analysis Link](https://public.tableau.com/app/profile/valeriia.efremova/viz/NYCCitibikeanalysis_16681944837520/NYCCitibikeanalysis?publish=yes) . <br/>
+• Data Source: [Google]( Google), [201908-citibike-tripdata.csv.zip](https://s3.amazonaws.com/tripdata/index.html) . <br/> 
 •	Software: Tableau, Jupyter, Git Bash, GitHub. <br/>
 
 # `Results`
@@ -70,7 +71,8 @@ After I converted the "tripduration" column to a datetime datatype, I exported t
 
 # `Summary ` <br/>
 The data on Citibike riders in New York City shows that most bike trips are under 35 minutes long (5 to 35 minutes) and the most popular times for trips during the weekday are during regular commuting hours (7-9am and 5-7 pm). During the weekends, people ride Citibikes mostly  throughout the daytime. The most popular starting locations overlap with the highest population density areas of New York . Also very often the starting locations and the ending locations are the same. And data shows that riders are more likely to be male. <br/>
-These  important conclusions should be considered when developing a plan for a similar program in Des Moines.
+These  important conclusions should be considered when developing a plan for a similar program in Des Moines.<br/>
+
 
 
 
