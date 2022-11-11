@@ -12,7 +12,7 @@ Finally, I added these new visualizations to the two I created in this module fo
 •	Data Source: [Google]( Google) . <br/> 
 •	Software: Tableau, Jupyter, Git Bash, GitHub. <br/>
 
-# `Summary`
+# `Results`
 
 
 1.	Using Python and Pandas functions, I converted the "tripduration" column from an integer to a datetime datatype to get the time in hours, minutes, and seconds (00:00:00). 
@@ -68,7 +68,7 @@ After I converted the "tripduration" column to a datetime datatype, I exported t
 ![image](https://user-images.githubusercontent.com/110998103/201393763-ef8c213f-32ff-419b-a7d9-7f7cdb5b9ee2.png)
 
 
-## `Sunmmary ` <br/>
+# `Sunmmary ` <br/>
 
 
 
