@@ -56,5 +56,23 @@ After I converted the "tripduration" column to a datetime datatype, I exported t
 ![image](https://user-images.githubusercontent.com/110998103/201375513-1a1e8934-7c4f-410e-9f3e-68e5deb6dd3f.png)
 
 
+3. In the Deliverable 3  I used two visualizations that I created in this module  -  top starting locations and  top ending locations. <br/>
+• The first visualization shows where customers are beginning their bike rental journeys. 
+
+![image](https://user-images.githubusercontent.com/110998103/201393675-d83044c7-3e84-4cdb-8a4e-2883e7174063.png)
+
+
+
+• And the second shows where they are dropping off the bikes.
+
+![image](https://user-images.githubusercontent.com/110998103/201393763-ef8c213f-32ff-419b-a7d9-7f7cdb5b9ee2.png)
+
+
+## `Sunmmary ` <br/>
+
+
+
+
+
 
 
