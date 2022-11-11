@@ -47,6 +47,8 @@ After I converted the "tripduration" column to a datetime datatype, I exported t
 • How many trips are taken by the hour for each day of the week for all riders and genders. <br/>
 
 
+![image](https://user-images.githubusercontent.com/110998103/201374714-d8e69d5a-b4a2-4c0b-b51e-0143cff841fd.png)
+
 
 •	A breakdown of what days of the week a user might be more likely to check out a bike, by type of user and gender. <br/>
 
