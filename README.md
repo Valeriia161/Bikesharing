@@ -69,7 +69,8 @@ After I converted the "tripduration" column to a datetime datatype, I exported t
 
 
 # `Summary ` <br/>
-
+The data on Citibike riders in New York City shows that most bike trips are under 35 minutes long (5 to 35 minutes) and the most popular times for trips during the weekday are during regular commuting hours (7-9am and 5-7 pm). During the weekends, people ride Citibikes mostly  throughout the daytime. The most popular starting locations overlap with the highest population density areas of New York . Also very often the starting locations and the ending locations are the same. And data shows that riders are more likely to be male. <br/>
+These  important conclusions should be considered when developing a plan for a similar program in Des Moines.
 
 
 
